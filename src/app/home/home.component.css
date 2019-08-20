@@ -1,0 +1,13 @@
+.right-link:link{
+    text-align: right !important;
+    text-decoration: none;
+  }
+  
+  .center-link:link{
+    text-align: center !important;
+    text-decoration: none;
+  }
+  
+  a:hover{
+    background-color: pink;
+  }
